@@ -1,12 +1,12 @@
 <img align="center" src="https://cdn.gangwarsrp.com/assets/img/gangwarsrp_logo.webp" width="128">
 
 
-# <span style="color: #ffc622;">Ibin Studios</span>
+# <span>Ibin Studios</span>
 
 
 ## Projects:
 
-<a href="https://gangwarsrp.com">GangWarsRP</a> 
+<a href="https://gangwarsrp.com">GangWarsRP</a> — <a href="https://discord.gg/gangwarsrp">Discord</a>
 > Garry's Mod FPS/MMO Gamemode
 
 
