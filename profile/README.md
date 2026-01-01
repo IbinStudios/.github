@@ -17,6 +17,8 @@
 
 <a href="https://github.com/Kamber56">Kamber</a>
 
+## Contributing:
+Please read the <a href="https://github.com/IbinStudios/.github/blob/main/profile/LICENSE.md">license</a> before contribtuing.
 
 ## Used Tools:
 <p align="left">
